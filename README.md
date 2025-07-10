@@ -67,5 +67,11 @@ A comprehensive data analysis project exploring AI-related job postings. This no
 
 ---
 
+---
+
+📂 **SQL Analysis**  
+For full SQL-based exploration of this dataset, see:  
+👉 [`ai_jobs_sql_analysis.md`](ai_jobs_sql_analysis.md)
+
 
 
